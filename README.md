@@ -1,4 +1,3 @@
 # Customerpop
-看看呗
-从下到上，popView
-Pop.gif
+##Customerpop 是一个从下到上弹出的一个pop视图
+  ![image]()
